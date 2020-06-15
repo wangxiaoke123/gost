@@ -1,5 +1,3 @@
-一键脚本(运用的其他网站的ghost.sh):wget --no-check-certificate https://zhujiget.com/wp-content/uploads/2020/ghost.sh && chmod +x ghost.sh && ./ghost.sh
-
 gost - GO Simple Tunnel
 ======
 
