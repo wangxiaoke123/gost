@@ -1,5 +1,8 @@
 gost - GO Simple Tunnel
 ======
+
+## onekeygost一键脚本
+
 ```
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/siemenstutorials/onekeygost/master/install.sh && chmod +x install.sh && ./install.sh
 ```
