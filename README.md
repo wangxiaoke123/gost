@@ -1,6 +1,12 @@
 gost - GO Simple Tunnel
 ======
-
+```
+wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/siemenstutorials/onekeygost/master/install.sh && chmod +x install.sh && ./install.sh
+```
+再次启动
+```
+bash install.sh
+```
 ### GO语言实现的安全隧道
 
 [![GoDoc](https://godoc.org/github.com/ginuerzh/gost?status.svg)](https://godoc.org/github.com/ginuerzh/gost)
